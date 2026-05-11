@@ -1,0 +1,1 @@
+# test-wmx-rne-column-chart
